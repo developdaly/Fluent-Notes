@@ -92,8 +92,19 @@ Language can be taught, but not diversity.
 * Code should be systematically reviewed via "pull request"
 * Jr Devs need individual learning goals with self-chosen objectives. Asses regularly.
 
+## Rich Web Apps with Knockout.js
+by Steven Sanderson (Microsoft)
 
+* Model = server/DB
+* View Model = Javascript
+* View = HTML
 
+Why use it?
+
+* Lightweight (smaller than the others)
+* IE6 compatible
+* Reactive (automatically) or The Push Model
+** Information updates without needing to check if it has been updated
 
 
 
