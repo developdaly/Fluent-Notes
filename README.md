@@ -49,3 +49,26 @@ Performance quick hits:
 * The FPS meter gives a few performance indicators.
 * Show paint rects and layer borders to help find paint issues (ex. painting on every scroll?)
 * Layout thrashing details. Lots of layout and little painting?
+
+## Show, Don't Tell
+By Nellie McKesson (O'Reilly Media, Inc.), Chris Wilson (Google)
+
+O'Reilly has built a CMS to publish long form content to many sources (print, web, ebook). Authors write in markup and choose where to publish to. [atlas.oreilly.com](http://atlas.oreilly.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
