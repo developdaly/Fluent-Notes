@@ -27,3 +27,25 @@ Two take aways:
 By Brendan Elch (Mozilla)
 
 [Demo of Unreal3D in Firefox with Javascript](http://bgr.com/2013/05/03/mozilla-firefox-unreal-engine-3-port/)! C/C++ code can be compiled to JS and then intepreted by azm.js and use HTML5 for console-like gameplay in the browser without plugins.
+
+## The ABC of Data Visualization
+By Irene Ross (Bocoup)
+
+Uses d3.js to put together data. Announcing d3.chart.
+
+## Javascript Authoring Tooling
+By Paul Irish (Google)
+
+Live editing available via Workspaces. Make a change in chrome dev tools and it updates the local file.
+You can now edit Sass in chrome dev (needs a file watcher for live compiling).
+
+DevTools can being THE editor?
+
+Bower for package management.
+
+Performance quick hits:
+
+* Continuous repaint mode can help debug which things are using most paint time.
+* The FPS meter gives a few performance indicators.
+* Show paint rects and layer borders to help find paint issues (ex. painting on every scroll?)
+* Layout thrashing details. Lots of layout and little painting?
