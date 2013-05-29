@@ -22,3 +22,8 @@ He walked through development of a single page web app (basically exactly how he
 Two take aways:
 * Install [LiveReload](http://livereload.com). You have your editor open and your browser open. Save a file and watch the screen update.
 * [RequireJS](http://requirejs.org/) basically does what [`wp_enqueue_script`](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) does (a little less), but on the client-side. Worthwhile for us to implement because … well, we don't have [`wp_enqueue_script`](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) on our big sites.
+
+## Javascript at 18
+By Brendan Elch (Mozilla)
+
+[Demo of Unreal3D in Firefox with Javascript](http://bgr.com/2013/05/03/mozilla-firefox-unreal-engine-3-port/)! C/C++ code can be compiled to JS and then intepreted by azm.js and use HTML5 for console-like gameplay in the browser without plugins.
