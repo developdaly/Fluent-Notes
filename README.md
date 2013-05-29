@@ -55,6 +55,71 @@ By Nellie McKesson (O'Reilly Media, Inc.), Chris Wilson (Google)
 
 O'Reilly has built a CMS to publish long form content to many sources (print, web, ebook). Authors write in markup and choose where to publish to. [atlas.oreilly.com](http://atlas.oreilly.com)
 
+## DesignOps: Removing friction from your front-end development workflow
+by Jessica Allen (Engine Yard)
+
+We need to schedule recurring customer/cusomter support UX meetings to find out pain points.
+
+## How to Integrate Novice Developers into Your Team
+By Elise Worthy
+
+**Hungry Academy**
+
+livingsocial couldn't hire enough Rails engineers, so they found 24 complete code noobs. They were paid to live in DC for 5 months and work 16 hour days.
+
+10 months later all 24 people passed the academy. 20 people are still employed by livingsocial (83%).
+
+**Why Beginners**
+
+* Focus on functional diversity (ideas and backgrounds). When we are different we think different.
+
+> A random group of problem solvers will outperform a group of the best problem solvers.
+
+An expert will lead to one best solution. A team of experts will lead to closely associated best solutions.
+A divere team will lead to diverse solutions.
+
+Language can be taught, but not diversity.
+
+* Autonomy - let individuals control their own diversity
+* Mastery - incentive by challenge (give more than they may be able to handle)
+* Purpose - make it meaningful
+
+5 Habits of Highly Effective Nerds
+
+* Each novice will have a technical mentor to meet with regularly
+* Anytime something new is started take nothing for granted. Encourage questions.
+* Ensure a regular pairing schedule preferably with more than one other person.
+* Code should be systematically reviewed via "pull request"
+* Jr Devs need individual learning goals with self-chosen objectives. Asses regularly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
