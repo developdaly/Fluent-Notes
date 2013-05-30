@@ -1,6 +1,8 @@
 Fluent Notes
 ============
 
+My ([Patrick Daly](http://developdaly.com/)) personal notes from the sessions I attended at Fluent Conference 2013 in San Francisco, CA.
+
 ## High Performance Browser Networking
 By Ilya Grigorik (Google)
 
@@ -93,7 +95,7 @@ Language can be taught, but not diversity.
 * Jr Devs need individual learning goals with self-chosen objectives. Asses regularly.
 
 ## Rich Web Apps with Knockout.js
-by Steven Sanderson (Microsoft)
+By Steven Sanderson (Microsoft)
 
 * Model = server/DB
 * View Model = Javascript
@@ -106,12 +108,13 @@ Why use it?
 * Reactive (automatically) or The Push Model
 ** Information updates without needing to check if it has been updated
 
+## How to Quantify Single Page App Performance
+By Rachel Myers (ModCloth), Emily Nakashima (ModCloth)
+
+Performance has cumulative and lasting effects. Experiments have shown that slowing pages down have negative effects and when the test is over it takes time to recover. Users remember slow speeds and react the same.
 
 
-
-
-
-
+Doing cool custom performance timings in GA, but I took away to intentionally render the fast parts of a page first.
 
 
 
