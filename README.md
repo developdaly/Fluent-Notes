@@ -116,9 +116,18 @@ Performance has cumulative and lasting effects. Experiments have shown that slow
 
 Doing cool custom performance timings in GA, but I took away to intentionally render the fast parts of a page first.
 
+## Developing Windows 8 Apps with HTML5 and Javascript
+By Doris Chen (Microsoft)
 
+Windows 8 desktop apps run on the same JS engine as IE10.
 
+Supports media queries.
 
+Windows Library for JS (WinJS) adds Windows 8 specific features to help connect to Windows APIs. Not required.
+
+Use local resources (not CDN). jQuery 1.9.x and below need a custom version. 2.0 will support Windows 8.
+
+WinJS.xhr is the promise method to access services (custom methods are available as well).
 
 
 
