@@ -213,9 +213,22 @@ uptodate.frontendrescue.org
 
 Mailing lists and tests.
 
+## CSS3/JS Selectors: When Your HTML5 Has No Class
+By Estelle Weyl (Standardista.com)
 
+[Slides](https://github.com/estelle/selectors/blob/master/45.html) - Lots of great pseudo class examples.
 
+Javascript now has `querySelector` (i.e. `var el = document.querySelector('#bar')` or `var el = document.querySelectorAll('#bar')`) so stop using jQuery for it.
 
+`>` child selector
+
+`+` adjacent
+
+`~` general sibling selector
+
+You can even use `:target` to show hide things with pure CSS.
+
+selectivizr.com for pseudo class usage in IE8
 
 
 
