@@ -151,6 +151,98 @@ Keys to their development success:
 
 The President went on to say that Javascript was the key to turning PayPal around.
 
+## Everything You Always Wanted to Know About Web Standards (But Were Afraid to Ask)
+By Lea Verou (W3C)
+
+W3C sets standards for most front-end except Javascript. Protocols are set my IETF.
+
+**What does W3C do?**
+
+Working groups write the specs. W3C sets the processes and coordinates events. They make tools and promote education.
+
+**What is a W3C Working Group?**
+
+* 90%ish Member companties like browser vendors & big websites
+	* Funded by these companies by their annual subscriptions
+* 5%ish Invited experts
+* 5%ish W3C Staff
+
+**How do working groups make specs?**
+
+* Day-to-day
+	* Mailing lists
+	* IRC
+	* Wiki
+	* Bug tracking
+* Weekly
+	* Telcons
+* Quarterly
+	* FTF Meetings
+
+Spec editors write the spec, often a volunteer from within the working group.
+
+**What do the spec maturity levels mean?**
+
+It all starts from an idea, then debate.
+
+Possible outcomes:
+* Accepted
+* Rejected
+* Forgotten
+
+* From **Accepted** it goes to an Editor's Draft (ED).
+* Then Working Group reviews the ED.
+* The First Public Working Draft (FPWD) is then published.
+* Then to Working Draft (WD).
+* Then Last Call Working Draft (LCWD) - 3 weeks to 2 months.
+* Then Candidate Recommendation (CR) and implementers are invited to start implementing. Two implementations need to test (ex. Webkit, Blink).
+* Then to Proposed Recommendation (PR).
+* Then to Recommendation (REC).
+
+**How can I keep up?**
+
+* Mailing lists are public
+* Specs are free and public
+* Telcon and F2F minutres are public
+	* Open to auditing
+
+
+uptodate.frontendrescue.org
+
+**How can I contribute?**
+
+Mailing lists and tests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
