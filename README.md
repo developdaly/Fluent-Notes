@@ -230,10 +230,26 @@ You can even use `:target` to show hide things with pure CSS.
 
 selectivizr.com for pseudo class usage in IE8
 
+## Super Fast Design Decision-Making
+By Julie Horvath (Github, Inc.) @nrrrdcore
 
+[Resources](http://julieannhorvath.com/resources/)
 
+1. Build
+2. Deploy
+3. Iterate
 
+... get something out there fast and iterate after.
 
+960.gs bookmarklet to overlay grid.
+
+http://pea.rs/
+
+CSS3 by Dan Cederholm
+
+http://warpspire.com/kss/
+
+juliannnehorvath.com/resources
 
 
 
