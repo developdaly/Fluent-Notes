@@ -129,15 +129,27 @@ Use local resources (not CDN). jQuery 1.9.x and below need a custom version. 2.0
 
 WinJS.xhr is the promise method to access services (custom methods are available as well).
 
+## NodeJS @ PayPal
+By Bill Scott (PayPal)
 
+Previously worked at Netflix. They built 4 completely different experiences and had 16 test cells on day one of their PS3 launch in 2010. Focus on measure/build/learn.
 
+The UI layer is an "experimentation" layer.
 
+He started at PayPal in 2011, and found PayPal's culture to be completely different than Netflix. There was a culture of a long shelf life and resistance to change. A text change could take 6 weeks.
 
+When redoing PayPal he was faced with ideas of writing the application in Java and JSP and not writing any HTML. A new president, David Marcus, saw the need for change in their websites and shifted the stale culture.
 
+They got in a room and acted like a small startup. Within a day or two they spun up a NodeJS server, started using Github Enterprise. UI guys sketched on a whiteboard and developers started to code on the fly with weekly reviews.
 
+Keys to their development success:
 
+* Server and UI separation.
+* Using Twitter Bootstrap
+* Javascript Tempalting (dust)
+* They were able to make the UI portable to legacy systems
 
-
+The President went on to say that Javascript was the key to turning PayPal around.
 
 
 
