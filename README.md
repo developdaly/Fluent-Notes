@@ -251,7 +251,9 @@ http://warpspire.com/kss/
 
 juliannnehorvath.com/resources
 
-
+## Adobe Brackets
+By Glenn Ruehle (Adobe)
+The application itself is written in all HTML/CSS/JS and is open source on Github.
 
 
 
